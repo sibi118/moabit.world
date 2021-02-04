@@ -125,9 +125,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/workshop.json#start"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/digipolismoabit.github.io\/moabit.world\/workshop.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
