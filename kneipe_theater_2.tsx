@@ -116,4 +116,14 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="320">
+  <properties>
+   <property name="Soundcloud" value="https://soundcloud.com/discover"/>
+  </properties>
+ </tile>
+ <tile id="321">
+  <properties>
+   <property name="Soundcloud" value="https://soundcloud.com/discover"/>
+  </properties>
+ </tile>
 </tileset>
