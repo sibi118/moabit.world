@@ -111,9 +111,34 @@
    <property name="jitsiRoom" value="mbitcinema"/>
   </properties>
  </tile>
+ <tile id="209">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="213">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="224">
   <properties>
    <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="229">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="233">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="236">
+  <properties>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="320">
