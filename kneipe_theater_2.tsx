@@ -76,6 +76,21 @@
    <object id="1" x="0.0966548" y="0.144982" width="31.8961" height="14.4499"/>
   </objectgroup>
  </tile>
+ <tile id="140">
+  <properties>
+   <property name="jitsiRoom" value="mbittheatre"/>
+  </properties>
+ </tile>
+ <tile id="141">
+  <properties>
+   <property name="jitsiRoom" value="mbittheatre"/>
+  </properties>
+ </tile>
+ <tile id="142">
+  <properties>
+   <property name="jitsiRoom" value="mbittheatre"/>
+  </properties>
+ </tile>
  <tile id="163">
   <properties>
    <property name="collision" type="bool" value="false"/>
@@ -89,6 +104,11 @@
  <tile id="188">
   <properties>
    <property name="collision" type="bool" value="false"/>
+  </properties>
+ </tile>
+ <tile id="203">
+  <properties>
+   <property name="jitsiRoom" value="mbitcinema"/>
   </properties>
  </tile>
  <tile id="224">
