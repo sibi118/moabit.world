@@ -33,7 +33,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map.jason"
+                 "value":"\/map.jason#start"
                 }],
          "startx":-16,
          "starty":0,

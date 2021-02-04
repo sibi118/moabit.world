@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/workshop.json"
+                 "value":"\/workshop.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/kinotheater.json"
+                 "value":"\/kinotheater.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
