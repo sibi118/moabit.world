@@ -49,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/howto.rc3.world\/maps.html"
+                 "value":"https:\/\/moabit.world\/veranstaltungsinfos\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -218,7 +218,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":24,
+ "nextlayerid":25,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
