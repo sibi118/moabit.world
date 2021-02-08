@@ -238,6 +238,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":34,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":40,
                  "properties":[
                         {
@@ -248,6 +257,15 @@
                 }, 
                 {
                  "id":41,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":43,
                  "properties":[
                         {
                          "name":"collides",
@@ -275,6 +293,15 @@
                 }, 
                 {
                  "id":142,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":143,
                  "properties":[
                         {
                          "name":"collides",
@@ -311,6 +338,24 @@
                 }, 
                 {
                  "id":170,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":177,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":186,
                  "properties":[
                         {
                          "name":"collides",
@@ -396,6 +441,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":36,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":38,
                  "properties":[
                         {
@@ -451,6 +505,60 @@
                 }, 
                 {
                  "id":97,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":100,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":101,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":102,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":103,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":104,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":105,
                  "properties":[
                         {
                          "name":"collides",
@@ -540,6 +648,24 @@
                         }]
                 }, 
                 {
+                 "id":189,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":193,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":214,
                  "properties":[
                         {
@@ -559,6 +685,24 @@
                 }, 
                 {
                  "id":224,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":229,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":233,
                  "properties":[
                         {
                          "name":"collides",
