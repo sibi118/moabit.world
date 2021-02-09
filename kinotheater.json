@@ -268,9 +268,8 @@
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
- "tilesets":[
+ "tilesets":
         {
-<<<<<<< HEAD
          "columns":9,
          "firstgid":1,
          "image":"Basic_Tileset.png",
@@ -294,7 +293,6 @@
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
-=======
          "columns":20,
          "firstgid":1,
          "image":"kneipenr\u00e4ume.png",
@@ -1384,7 +1382,6 @@
                      "y":0
                     }
                 }],
->>>>>>> 26b313a6d0f5bb42c560ac127711e3ed02964029
          "tilewidth":32
         }],
  "tilewidth":32,
