@@ -192,7 +192,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/workshop.json"
+                 "value":"workshop.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -210,7 +210,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/kinotheater.json"
+                 "value":"kinotheater.json"
                 }],
          "type":"tilelayer",
          "visible":true,
