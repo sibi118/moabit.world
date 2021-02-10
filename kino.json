@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startKino"
+                 "value":"map.json#start_kino"
                 }],
          "type":"tilelayer",
          "visible":true,
